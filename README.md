@@ -2,6 +2,9 @@
 
 > 作者: [https://space.bilibili.com/368166294](https://space.bilibili.com/368166294)
 
+> [演示视频](https://www.bilibili.com/video/BV12E41147HR)
+
+
 ## 注意
 如果上传截图文件名不符合`Screenshot_YYYYmmdd_HHMMSS_应用包名.jpg`的格式,需要更改`index.js`的122,123行和`upload.py`的80行
 
